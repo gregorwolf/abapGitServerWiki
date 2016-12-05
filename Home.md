@@ -1,3 +1,7 @@
 Welcome to the abapGitServer wiki!
 
-todo
+Features/Benefits:
+* Roll back to specific point in time
+* Full backup
+* Increased transparency
+* Changes/commits per user
