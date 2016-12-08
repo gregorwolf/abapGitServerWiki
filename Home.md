@@ -5,3 +5,4 @@ Features/Benefits:
 * Full backup
 * Increased transparency
 * Changes/commits per user
+* blame (future)
