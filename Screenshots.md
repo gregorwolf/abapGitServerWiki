@@ -1,5 +1,3 @@
-# Screenshots
-
 ![img1](img/abapgitserver_170429_1.png)
 
 ![img2](img/abapgitserver_170429_2.png)
