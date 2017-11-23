@@ -8,4 +8,4 @@ Features/Benefits:
 * blame (future)
 
 Also see
-https://github.com/larshp/abapGit/wiki/Using-abapGit-and-abapGitServer-for-regular-backup
+http://docs.abapgit.org/guide-regular-backup.html
